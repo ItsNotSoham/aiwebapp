@@ -1,0 +1,21 @@
+body{background-size: cover;}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ 
+.note{background-color: yellowgreen;padding: 10px; font-size: 15px;font-weight: bold;color: teal; border-radius: 10px;}
+
+.speed{float: left;}
+.speedimg,.volumeimg{width: 200px;border-radius: 100px ;}
+
+#SPEED,#VOLUME{
+    font-size: 25px;margin: 15px;font-weight: bold;font-family: 'Times New Roman', Times, serif;
+}
+.volume{float: right;}
+
+canvas{border: 5px solid teal;margin-top: 30px ;}
+.lol{font-size: 20px;color: red;}
+.lol:hover{width:200px;height: 50px;}
